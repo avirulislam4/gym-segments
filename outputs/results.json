@@ -1,0 +1,35 @@
+{
+  "rows_total": 330,
+  "rows_train": 231,
+  "rows_test": 99,
+  "avg_extras_spend": 26.01,
+  "features": [
+    "age",
+    "visits_per_month",
+    "avg_visit_minutes",
+    "classes_per_month",
+    "months_member",
+    "monthly_extras_spend"
+  ],
+  "left_out": [
+    "member_id"
+  ],
+  "scaling": "StandardScaler fit on training members",
+  "k_chosen": 4,
+  "train_spread_k1": 1386.0,
+  "train_spread_k": 336.0,
+  "test_spread_k1_baseline": 600.7,
+  "test_spread_k_v1": 150.0,
+  "test_spread_reduction_pct": 75.0,
+  "credit_segments": [
+    "Newcomers"
+  ],
+  "new_member_segment": "Newcomers",
+  "new_member_gets_credit": true,
+  "monthly_net_baseline": -1200.0,
+  "monthly_net_v1": 185.0,
+  "monthly_improvement": 1385.0,
+  "members_credited_baseline": 330,
+  "members_credited_v1": 70,
+  "segment_agreement_without_spend_pct": 99.7
+}

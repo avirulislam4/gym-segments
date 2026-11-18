@@ -1,0 +1,5 @@
+,name,age,visits_per_month,avg_visit_minutes,classes_per_month,months_member,monthly_extras_spend,members,share_spend_under_20,net_if_credited_all,net_if_credited_train,gets_credit
+0,Newcomers,27.3,3.0,40.7,0.9,5.8,9.0,70,0.84,185.0,110.0,True
+1,Loyal Veterans,64.2,12.0,46.5,3.9,57.8,17.4,60,0.62,-45.0,-45.0,False
+2,Solo Grinders,33.2,16.0,64.5,0.9,30.3,24.9,109,0.39,-445.0,-325.0,False
+3,Class Devotees,42.6,9.4,55.1,7.0,24.0,47.3,91,0.01,-895.0,-595.0,False
